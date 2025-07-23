@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Final Year BTech Student
+Aspiring Full-Stack Developer
 
 
 ## 🌐 Socials:
