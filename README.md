@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full-Stack Developer
+I'm an Aspiring Full-Stack Developer
 
 
 ## 🌐 Socials:
